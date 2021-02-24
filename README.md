@@ -10,3 +10,5 @@ Tested On:
 and other linux server which detect wso shell and remove from it :v 
 
 Happy H@cking <3 
+
+Pass:SKmyDK
